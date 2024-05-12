@@ -1,0 +1,7 @@
+.home{
+   display: flex;
+   align-items: center;
+   background-color: cyan;
+   justify-content: space-around;
+   padding: 5px 0;
+}

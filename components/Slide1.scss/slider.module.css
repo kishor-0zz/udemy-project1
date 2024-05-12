@@ -1,0 +1,17 @@
+.sliderStyle .active{
+   visibility: visible;
+   opacity: 1;
+}
+.sliderStyle img{
+   position: absolute;
+   width: 100%;
+   top: 0;
+   left: 0;
+   visibility: hidden;
+   opacity: 0;
+   z-index: -1;
+}
+.sliderStyle img.active{
+   visibility: visible;
+   opacity: 1;
+}
